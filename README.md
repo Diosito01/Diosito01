@@ -15,3 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Header](https://github.com/Diosito01/Diosito01/blob/main/assets/diosito.gif "Header")](https://diosito.mx/)
+
+<!-- Actual text -->
+
+You can find me on [![Twitter][1.2]][1].
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/imdiosito
